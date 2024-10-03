@@ -1,0 +1,6 @@
+# Ignore environment variables and sensitive files
+env/
+.env
+*.pyc
+__pycache__
+documents.db
